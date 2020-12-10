@@ -1,1 +1,1 @@
-# [PRUEBA]https://github.com/Ianfernandez09/Prueba
+# https://github.com/Ianfernandez09/Prueba
