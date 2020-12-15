@@ -1,0 +1,15 @@
+dn: uid=juan,ou=people,dc=megainfo205,dc=com
+ObjectClass: top
+ObjectClass: posixAccount
+ObjectClass: inetOrgPerson
+ObjectClass: shadowAccount
+uid: juan
+sn: fernandez
+givenName: juan
+cn: juan fernandez
+uidNumber: 2000
+gidNumber: 2000
+userPassword: {MD5}bpkHWv3yetSoVOVK03A0Ka==
+homeDirectory: /home/juan
+loginShell: /bin/bash
+mail: juan@gmail.com
